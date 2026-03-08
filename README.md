@@ -49,7 +49,7 @@ Drum_Kit/
 │   ├── tom-3.mp3
 │   └── tom-4.mp3
 ├── images/
-│   └── drum-images (optional)
+│   └── drum-images 
 └── README.md
 ```
 
