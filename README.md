@@ -8,15 +8,15 @@
 
 ### 🔗 Live Demo
 
-https://vaishnavbabar595.github.io/Drum_Kit/
+👉 https://vaishnavbabar595.github.io/Drum_Kit/
 
 ---
 
 ## 📖 Project Overview
 
-Drum Kit is an interactive browser-based musical application built using HTML, CSS, and JavaScript. The application allows users to play different drum sounds either by clicking the on-screen drum buttons or by pressing the corresponding keys on the keyboard.
+**Drum Kit** is an interactive browser-based musical application built using **HTML, CSS, and JavaScript**. The application allows users to play different drum sounds by either clicking the on-screen buttons or pressing the corresponding keys on the keyboard.
 
-This project demonstrates core frontend development concepts such as DOM manipulation, event handling, keyboard input detection, and audio playback using JavaScript.
+This project demonstrates essential frontend development concepts such as **DOM manipulation, event handling, keyboard input detection, and audio playback using JavaScript**.
 
 ---
 
@@ -26,7 +26,7 @@ This project demonstrates core frontend development concepts such as DOM manipul
 * ⌨️ Keyboard support for interactive drumming
 * 🎵 Realistic drum sound effects
 * ⚡ Dynamic button animations on interaction
-* 📱 Simple and responsive user interface
+* 📱 Clean and responsive user interface
 * 🧩 Beginner-friendly project structure
 
 ---
@@ -41,17 +41,21 @@ This project demonstrates core frontend development concepts such as DOM manipul
 
 ## 💻 How to Run Locally
 
-1. Clone the repository
+### 1️⃣ Clone the repository
 
+```bash
 git clone https://github.com/vaishnavbabar595/Drum_Kit.git
+```
 
-2. Navigate to the project folder
+### 2️⃣ Navigate to the project folder
 
+```bash
 cd Drum_Kit
+```
 
-3. Open the project
+### 3️⃣ Open the project
 
-Simply open `index.html` in your browser.
+Simply open **index.html** in your browser.
 
 ---
 
@@ -71,7 +75,7 @@ Drum_Kit/
 │   ├── tom-3.mp3
 │   └── tom-4.mp3
 ├── images/
-│   └── drum-images 
+│   └── drum-images
 └── README.md
 ```
 
@@ -79,7 +83,7 @@ Drum_Kit/
 
 ## 🎯 Learning Outcomes
 
-Through this project, you will understand:
+Through this project you will learn:
 
 * DOM manipulation using JavaScript
 * Event listeners for mouse and keyboard events
