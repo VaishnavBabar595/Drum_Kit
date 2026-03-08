@@ -39,6 +39,22 @@ This project demonstrates core frontend development concepts such as DOM manipul
 
 ---
 
+## 💻 How to Run Locally
+
+1. Clone the repository
+
+git clone https://github.com/vaishnavbabar595/Drum_Kit.git
+
+2. Navigate to the project folder
+
+cd Drum_Kit
+
+3. Open the project
+
+Simply open `index.html` in your browser.
+
+---
+
 ## 📂 Project Structure
 
 ```
