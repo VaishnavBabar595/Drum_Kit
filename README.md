@@ -39,16 +39,6 @@ This project demonstrates essential frontend development concepts such as **DOM 
 
 ---
 
-## 🧠 How to Play
-
-1. Press any key to start the game.
-2. Watch the sequence of colors carefully.
-3. Repeat the sequence by clicking the buttons in the correct order.
-4. Each correct round adds a new color, making the game progressively harder.
-5. Make a mistake? Game over! Try again to beat your high score.
-
----
-
 ## 💻 How to Run Locally
 
 ### 1️⃣ Clone the repository
